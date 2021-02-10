@@ -28,9 +28,3 @@ describe('<Button />', () => {
     })
   })
 })
-
-// const { container } = render(<Button />)
-
-// expect(screen.getByRole('heading', { name: /Button/i })).toBeInTheDocument()
-
-// expect(container.firstChild).toMatchSnapshot()
